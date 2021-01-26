@@ -12,7 +12,7 @@ def power(elm, n):
 
 def modulo(elm, n):
     """
-    Renvoie le modulo de elm par n sans utiliser de boucle
+    Renvoie le modulo de elm par n sans utiliser de boucle 
     """
     pass
 
